@@ -1,3 +1,5 @@
+[setupact.log](https://github.com/github/docs/files/7742510/setupact.log)
+[WindowsUpdate.log](https://github.com/github/docs/files/7742514/WindowsUpdate.log)
 ---
 title: Basic writing and formatting syntax
 intro: Create sophisticated formatting for your prose and code on GitHub with simple syntax.
